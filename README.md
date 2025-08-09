@@ -1,5 +1,7 @@
 # Weather Activity Planner
 
+> **NOTE:** AWS server was linked to a school course, which has now been deactivated.
+
 This project recommends optimal times for outdoor activities based on weather forecasts for 5 Canadian cities. 
 
 - Fetches 5-day weather data from OpenWeatherMap API using AWS Lambda.
